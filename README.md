@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Rahul 👋
 
-<!--
-**rahulvandrangi09/rahulvandrangi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Backend & Real-Time Systems  
+🏆 Knight on LeetCode (Top 5%)  
 
-Here are some ideas to get you started:
+I build scalable web applications with a strong focus on **performance, system design, and real-world impact**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Featured Projects
+
+### 🎓 VIIT Mock EAMCET Examination Portal
+A scalable full-stack exam platform simulating real EAMCET exams.  
+- ⚡ Handles **500–1000 concurrent users**  
+- 🔒 Ensures data integrity using **PostgreSQL transactions**  
+- 📊 Designed for high-load, real-time exam environments  
+
+🔗 [View Project](https://github.com/rahulvandrangi09/VIITEAPCET_BACKEND)
+
+---
+
+### 🌐 Orbit – Real-time Messaging Platform
+A WebSocket-based communication system for seamless real-time interaction.  
+- ⚡ Supports **1000+ concurrent WebSocket connections**  
+- 🔍 Built-in **search functionality**  
+- 🧠 Fault-tolerant message persistence  
+
+🔗 [View Project](https://github.com/rahulvandrangi09/Orbit-Frontend)
+
+---
+
+### 🔍 UnLost – Lost & Found MERN System
+A platform to report and track lost/found items efficiently.  
+- 🔐 Authentication + secure CRUD operations  
+- 📱 Responsive UI for all devices  
+- ⚡ Optimized MongoDB schema  
+
+🔗 [View Project](https://github.com/rahulvandrangi09/Lost-and-Found-Backend)
+
+---
+
+### 💰 Finance Backend API
+A secure and scalable backend for financial operations.  
+- 🔒 Rate limiting & API security  
+- 🔍 Optimized search endpoints  
+- ⚙️ RESTful architecture  
+
+🔗 [View Project]([YOUR_LINK](https://github.com/rahulvandrangi09/finance-dashboard-backend))
+
+---
+
+### 🧳 Tourism Explorer – India
+A web app to explore tourist destinations across India.  
+- 🔍 Search-based discovery  
+- 🗺️ Location + content integration  
+- 🖼️ Dynamic images & UI  
+
+🔗 [View Project](https://github.com/rahulvandrangi09/React-TourismWeb)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express  
+**Databases:** PostgreSQL, MongoDB  
+**Other:** WebSockets, REST APIs, Prisma  
+
+---
+
+## 📊 Achievements
+
+- 🏆 Knight on LeetCode (Top 5%)  
+- 🧠 Solved 1000+ DSA problems  
+- 🥇 Top 10 in PISTON CUP Hackathon  
+- 🚀 Built production system used by 500+ students  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Link](https://www.linkedin.com/in/vandrangi-rahul/)  
+- LeetCode: [Link](https://leetcode.com/u/rahul_vandrangi/)
