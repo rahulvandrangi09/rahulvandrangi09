@@ -61,10 +61,10 @@ A web app to explore tourist destinations across India.
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express  
+**Frontend:** React.js, HTML, CSS, JavaScript
+**Backend:** Node.js, Express
 **Databases:** PostgreSQL, MongoDB  
-**Other:** WebSockets, REST APIs, Prisma  
+**Other:** WebSockets, REST APIs, Prisma, NeonDB, Postman
 
 ---
 
