@@ -45,7 +45,7 @@ A secure and scalable backend for financial operations.
 - 🔍 Optimized search endpoints  
 - ⚙️ RESTful architecture  
 
-🔗 [View Project]([YOUR_LINK](https://github.com/rahulvandrangi09/finance-dashboard-backend))
+🔗 [View Project](https://github.com/rahulvandrangi09/finance-dashboard-backend)
 
 ---
 
