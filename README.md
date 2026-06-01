@@ -21,7 +21,7 @@ A scalable full-stack exam platform simulating real EAMCET exams.
 
 ### 🌐 Orbit – Real-time Messaging Platform
 A WebSocket-based communication system for seamless real-time interaction.  
-- ⚡ Supports **1000+ concurrent WebSocket connections**  
+- ⚡ Supports **Multiple WebSocket connections**  
 - 🔍 Built-in **search functionality**  
 - 🧠 Fault-tolerant message persistence  
 
