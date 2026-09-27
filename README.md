@@ -1,7 +1,7 @@
 # Hi, I'm Rahul 👋
 
 🚀 Full-Stack Developer | Backend & Real-Time Systems  
-🏆 Knight on LeetCode (Top 5%)  
+🏆 Knight on LeetCode (Top 2%)  
 
 I build scalable web applications with a strong focus on **performance, system design, and real-world impact**.
 
@@ -69,7 +69,7 @@ A web app to explore tourist destinations across India.
 
 ## 📊 Achievements
 
-- 🏆 Knight on LeetCode (Top 5%)  
+- 🏆 Knight on LeetCode (Top 2%)  
 - 🧠 Solved 1000+ DSA problems  
 - 🥇 Top 10 in PISTON CUP Hackathon  
 - 🚀 Built production system used by 500+ students  
